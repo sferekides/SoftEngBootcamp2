@@ -4,6 +4,6 @@
 
 module.exports = {
   db: {
-    uri: '', //place the URI of your mongo database here.
+    uri: 'mongodb+srv://administrator:FVRUYzO45ebm37T3@savvascluster-hb0nq.mongodb.net/test?retryWrites=true&w=majority', //place the URI of your mongo database here.
   }
 };
